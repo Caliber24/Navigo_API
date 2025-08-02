@@ -48,6 +48,7 @@ INSTALLED_APPS = [
     'drf_spectacular_sidecar',
 
     'users.apps.UsersConfig',
+    'travel.apps.TravelConfig',
 
 
 ]
