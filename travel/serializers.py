@@ -14,4 +14,4 @@ class UserTravelStyleSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = UserTravelStyle
-        fields = ['travel_style']
+        fields = ['styles']
