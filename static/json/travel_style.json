@@ -1,0 +1,50 @@
+[
+  {
+    "model": "travel.travelstyle",
+    "pk": 1,
+    "fields": {
+      "name": "ماجراجویانه",
+      "description": "سفر با فعالیت‌های پرهیجان مانند کوه‌نوردی، دوچرخه‌سواری و پاراگلایدینگ"
+    }
+  },
+  {
+    "model": "travel.travelstyle",
+    "pk": 2,
+    "fields": {
+      "name": "فرهنگی",
+      "description": "بازدید از مکان‌های تاریخی، فرهنگی و موزه‌ها"
+    }
+  },
+  {
+    "model": "travel.travelstyle",
+    "pk": 3,
+    "fields": {
+      "name": "طبیعت‌گردی",
+      "description": "لذت بردن از طبیعت، کمپینگ، کوه و جنگل"
+    }
+  },
+  {
+    "model": "travel.travelstyle",
+    "pk": 4,
+    "fields": {
+      "name": "لوکس",
+      "description": "سفرهای سطح بالا با اقامت در هتل‌های ۵ ستاره، خرید لوکس و اسپا"
+    }
+  },
+  {
+    "model": "travel.travelstyle",
+    "pk": 5,
+    "fields": {
+      "name": "اقتصادی",
+      "description": "سفر ارزان با تمرکز بر استفاده‌ی اقتصادی از منابع"
+    }
+  },
+  {
+    "model": "travel.travelstyle",
+    "pk": 6,
+    "fields": {
+      "name": "سلامتی و آرامش",
+      "description": "سفرهایی برای استراحت، اسپا، یوگا و درمان‌های آرام‌بخش"
+    }
+  }
+]

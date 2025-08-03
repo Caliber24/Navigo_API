@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "username": "testuser1",
+    "email": "test1@example.com",
+    "password": "TestPass123",
+    "is_active": true
+  },
+  {
+    "id": 2,
+    "username": "testuser2",
+    "email": "test2@example.com",
+    "password": "Pass456!",
+    "is_active": false
+  },
+  {
+    "id": 3,
+    "username": "testuser3",
+    "email": "test3@example.com",
+    "password": "MyPassword789",
+    "is_active": true
+  },
+  {
+    "id": 4,
+    "username": "testuser4",
+    "email": "test4@example.com",
+    "password": "Password000",
+    "is_active": false
+  }
+]

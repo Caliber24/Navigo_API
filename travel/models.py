@@ -42,8 +42,8 @@ class StyleParameter(models.Model):
         return f"{self.style.name} - {self.key}: {self.weight}"
     
 class UserTravelStyle(models.Model):
-    user = models.OneToOneField(User, on_delete=models.CASCADE, related_name="styles")
-    travel_style = models.ManyToManyField(TravelStyle,null=True,blank=True, related_name="users")
+    user = models.OneToOneField(User, on_delete=models.CASCADE, related_name="travel_style")
+    travel_style = models.ManyToManyField(TravelStyle, related_name="users")
     updated_at = models.DateTimeField(auto_now=True)
 
     def __str__(self):

@@ -1,0 +1,127 @@
+[
+  {
+    "model": "travel.styleparameter",
+    "fields": { "style": 1, "key": "thrill", "weight": 0.5 }
+  },
+  {
+    "model": "travel.styleparameter",
+    "fields": { "style": 1, "key": "nature", "weight": 0.3 }
+  },
+  {
+    "model": "travel.styleparameter",
+    "fields": { "style": 1, "key": "budget", "weight": 0.1 }
+  },
+  {
+    "model": "travel.styleparameter",
+    "fields": { "style": 1, "key": "culture", "weight": 0.05 }
+  },
+  {
+    "model": "travel.styleparameter",
+    "fields": { "style": 1, "key": "spa", "weight": 0.05 }
+  },
+
+  {
+    "model": "travel.styleparameter",
+    "fields": { "style": 2, "key": "culture", "weight": 0.6 }
+  },
+  {
+    "model": "travel.styleparameter",
+    "fields": { "style": 2, "key": "nature", "weight": 0.15 }
+  },
+  {
+    "model": "travel.styleparameter",
+    "fields": { "style": 2, "key": "budget", "weight": 0.1 }
+  },
+  {
+    "model": "travel.styleparameter",
+    "fields": { "style": 2, "key": "thrill", "weight": 0.1 }
+  },
+  {
+    "model": "travel.styleparameter",
+    "fields": { "style": 2, "key": "spa", "weight": 0.05 }
+  },
+
+  {
+    "model": "travel.styleparameter",
+    "fields": { "style": 3, "key": "nature", "weight": 0.6 }
+  },
+  {
+    "model": "travel.styleparameter",
+    "fields": { "style": 3, "key": "thrill", "weight": 0.2 }
+  },
+  {
+    "model": "travel.styleparameter",
+    "fields": { "style": 3, "key": "budget", "weight": 0.1 }
+  },
+  {
+    "model": "travel.styleparameter",
+    "fields": { "style": 3, "key": "culture", "weight": 0.05 }
+  },
+  {
+    "model": "travel.styleparameter",
+    "fields": { "style": 3, "key": "spa", "weight": 0.05 }
+  },
+
+  {
+    "model": "travel.styleparameter",
+    "fields": { "style": 4, "key": "spa", "weight": 0.4 }
+  },
+  {
+    "model": "travel.styleparameter",
+    "fields": { "style": 4, "key": "culture", "weight": 0.2 }
+  },
+  {
+    "model": "travel.styleparameter",
+    "fields": { "style": 4, "key": "thrill", "weight": 0.15 }
+  },
+  {
+    "model": "travel.styleparameter",
+    "fields": { "style": 4, "key": "nature", "weight": 0.1 }
+  },
+  {
+    "model": "travel.styleparameter",
+    "fields": { "style": 4, "key": "budget", "weight": 0.15 }
+  },
+
+  {
+    "model": "travel.styleparameter",
+    "fields": { "style": 5, "key": "budget", "weight": 0.6 }
+  },
+  {
+    "model": "travel.styleparameter",
+    "fields": { "style": 5, "key": "nature", "weight": 0.2 }
+  },
+  {
+    "model": "travel.styleparameter",
+    "fields": { "style": 5, "key": "culture", "weight": 0.1 }
+  },
+  {
+    "model": "travel.styleparameter",
+    "fields": { "style": 5, "key": "spa", "weight": 0.05 }
+  },
+  {
+    "model": "travel.styleparameter",
+    "fields": { "style": 5, "key": "thrill", "weight": 0.05 }
+  },
+
+  {
+    "model": "travel.styleparameter",
+    "fields": { "style": 6, "key": "spa", "weight": 0.5 }
+  },
+  {
+    "model": "travel.styleparameter",
+    "fields": { "style": 6, "key": "nature", "weight": 0.3 }
+  },
+  {
+    "model": "travel.styleparameter",
+    "fields": { "style": 6, "key": "budget", "weight": 0.1 }
+  },
+  {
+    "model": "travel.styleparameter",
+    "fields": { "style": 6, "key": "culture", "weight": 0.05 }
+  },
+  {
+    "model": "travel.styleparameter",
+    "fields": { "style": 6, "key": "thrill", "weight": 0.05 }
+  }
+]
