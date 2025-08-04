@@ -1,0 +1,58 @@
+[
+  {
+    "model": "travel.travelstyle",
+    "fields": {
+      "name": "ماجراجویی",
+      "description": "سفرهای پر از فعالیت‌های هیجان‌انگیز مانند کوهنوردی، اسکی و ورزش‌های آبی"
+    }
+  },
+  {
+    "model": "travel.travelstyle",
+    "fields": {
+      "name": "تفریحی",
+      "description": "سفرهای آرام و تفریحی با هدف استراحت و لذت بردن"
+    }
+  },
+  {
+    "model": "travel.travelstyle",
+    "fields": {
+      "name": "فرهنگی",
+      "description": "سفرهای با هدف بازدید از جاذبه‌های تاریخی و فرهنگی"
+    }
+  },
+  {
+    "model": "travel.travelstyle",
+    "fields": {
+      "name": "طبیعت‌گردی",
+      "description": "سفرهای متمرکز بر طبیعت و محیط‌زیست"
+    }
+  },
+  {
+    "model": "travel.travelstyle",
+    "fields": {
+      "name": "زیارتی",
+      "description": "سفرهای با هدف زیارت اماکن مقدس"
+    }
+  },
+  {
+    "model": "travel.travelstyle",
+    "fields": {
+      "name": "شهری",
+      "description": "سفرهای به شهرهای بزرگ با هدف خرید و تفریحات شهری"
+    }
+  },
+  {
+    "model": "travel.travelstyle",
+    "fields": {
+      "name": "ساحلی",
+      "description": "سفرهای به مناطق ساحلی و دریا"
+    }
+  },
+  {
+    "model": "travel.travelstyle",
+    "fields": {
+      "name": "توریستی",
+      "description": "سفرهای عمومی توریستی با ترکیبی از جاذبه‌ها"
+    }
+  }
+]

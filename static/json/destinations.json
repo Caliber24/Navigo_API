@@ -1,0 +1,4474 @@
+[
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "تبريز",
+      "province": "آذربايجان شرقی",
+      "latitude": 38.5,
+      "longitude": 46.18,
+      "proximate_nature": 0.5,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.7,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "مراغه",
+      "province": "آذربايجان شرقی",
+      "latitude": 37.2335,
+      "longitude": 46.1439,
+      "proximate_nature": 0.7,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.7,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "ميانه",
+      "province": "آذربايجان شرقی",
+      "latitude": 37.23,
+      "longitude": 47.45,
+      "proximate_nature": 0.5,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.5,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "شبستر",
+      "province": "آذربايجان شرقی",
+      "latitude": 38.1048,
+      "longitude": 45.429,
+      "proximate_nature": 0.9,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.7,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "مرند",
+      "province": "آذربايجان شرقی",
+      "latitude": 38.26,
+      "longitude": 45.47,
+      "proximate_nature": 0.7,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.7,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "جلفا",
+      "province": "آذربايجان شرقی",
+      "latitude": 38.5622,
+      "longitude": 45.3732,
+      "proximate_nature": 0.7,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.7,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "سراب",
+      "province": "آذربايجان شرقی",
+      "latitude": 37.5629,
+      "longitude": 47.321,
+      "proximate_nature": 0.5,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.5,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "هاديشهر",
+      "province": "آذربايجان شرقی",
+      "latitude": 38.51,
+      "longitude": 45.4,
+      "proximate_nature": 0.7,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.7,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "بناب",
+      "province": "آذربايجان شرقی",
+      "latitude": 38.26,
+      "longitude": 45.55,
+      "proximate_nature": 0.7,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.7,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "تسوج",
+      "province": "آذربايجان شرقی",
+      "latitude": 38.1854,
+      "longitude": 45.2136,
+      "proximate_nature": 0.7,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.7,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "اهر",
+      "province": "آذربايجان شرقی",
+      "latitude": 38.2839,
+      "longitude": 47.412,
+      "proximate_nature": 0.5,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.7,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "هريس",
+      "province": "آذربايجان شرقی",
+      "latitude": 38.1445,
+      "longitude": 47.659,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.5,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "هشترود",
+      "province": "آذربايجان شرقی",
+      "latitude": 37.2849,
+      "longitude": 47.257,
+      "proximate_nature": 0.5,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.5,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "ملكان",
+      "province": "آذربايجان شرقی",
+      "latitude": 37.839,
+      "longitude": 46.612,
+      "proximate_nature": 0.5,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.7,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "بستان آباد",
+      "province": "آذربايجان شرقی",
+      "latitude": 37.5044,
+      "longitude": 46.4951,
+      "proximate_nature": 0.5,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.7,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "ورزقان",
+      "province": "آذربايجان شرقی",
+      "latitude": 38.3048,
+      "longitude": 46.3931,
+      "proximate_nature": 0.5,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.7,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "اسكو",
+      "province": "آذربايجان شرقی",
+      "latitude": 37.5458,
+      "longitude": 46.724,
+      "proximate_nature": 0.5,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.7,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "ممقان",
+      "province": "آذربايجان شرقی",
+      "latitude": 37.5045,
+      "longitude": 45.5819,
+      "proximate_nature": 0.9,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.7,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "صوفیان",
+      "province": "آذربايجان شرقی",
+      "latitude": 45.98,
+      "longitude": 38.276,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "ایلخچی",
+      "province": "آذربايجان شرقی",
+      "latitude": 45.98,
+      "longitude": 37.939,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "خسروشهر",
+      "province": "آذربايجان شرقی",
+      "latitude": 46.051,
+      "longitude": 37.951,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "باسمنج",
+      "province": "آذربايجان شرقی",
+      "latitude": 46.492,
+      "longitude": 37.984,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "سهند",
+      "province": "آذربايجان شرقی",
+      "latitude": 37.564,
+      "longitude": 46.74,
+      "proximate_nature": 0.5,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.7,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "اروميه",
+      "province": "آذربايجان غربی",
+      "latitude": 37.32,
+      "longitude": 45.4,
+      "proximate_nature": 0.9,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.5,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "نقده",
+      "province": "آذربايجان غربی",
+      "latitude": 36.5719,
+      "longitude": 45.2332,
+      "proximate_nature": 0.5,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.5,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "ماكو",
+      "province": "آذربايجان غربی",
+      "latitude": 39.1734,
+      "longitude": 44.304,
+      "proximate_nature": 0.5,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "تكاب",
+      "province": "آذربايجان غربی",
+      "latitude": 36.2353,
+      "longitude": 47.76,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "خوي",
+      "province": "آذربايجان غربی",
+      "latitude": 38.33,
+      "longitude": 44.57,
+      "proximate_nature": 0.7,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.5,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "مهاباد",
+      "province": "آذربايجان غربی",
+      "latitude": 36.45,
+      "longitude": 45.43,
+      "proximate_nature": 0.5,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.5,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "سر دشت",
+      "province": "آذربايجان غربی",
+      "latitude": 30.2,
+      "longitude": 50.13,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "چالدران",
+      "province": "آذربايجان غربی",
+      "latitude": 39.358,
+      "longitude": 44.2312,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "بوكان",
+      "province": "آذربايجان غربی",
+      "latitude": 36.3115,
+      "longitude": 46.1226,
+      "proximate_nature": 0.5,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.5,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "مياندوآب",
+      "province": "آذربايجان غربی",
+      "latitude": 36.586,
+      "longitude": 46.612,
+      "proximate_nature": 0.5,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.5,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "سلماس",
+      "province": "آذربايجان غربی",
+      "latitude": 38.12,
+      "longitude": 44.46,
+      "proximate_nature": 0.7,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.5,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "شاهين دژ",
+      "province": "آذربايجان غربی",
+      "latitude": 36.4,
+      "longitude": 46.34,
+      "proximate_nature": 0.5,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.5,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "پيرانشهر",
+      "province": "آذربايجان غربی",
+      "latitude": 36.4146,
+      "longitude": 45.831,
+      "proximate_nature": 0.5,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.5,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "اشنويه",
+      "province": "آذربايجان غربی",
+      "latitude": 37.3,
+      "longitude": 45.7,
+      "proximate_nature": 0.7,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.5,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "پلدشت",
+      "province": "آذربايجان غربی",
+      "latitude": 39.2026,
+      "longitude": 45.357,
+      "proximate_nature": 0.5,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.5,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "اردبيل",
+      "province": "اردبيل",
+      "latitude": 38.14,
+      "longitude": 48.17,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.5,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "پارس آباد",
+      "province": "اردبيل",
+      "latitude": 39.3827,
+      "longitude": 47.5423,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.5,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "خلخال",
+      "province": "اردبيل",
+      "latitude": 37.3732,
+      "longitude": 48.3124,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.5,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "مشگين شهر",
+      "province": "اردبيل",
+      "latitude": 38.24,
+      "longitude": 47.39,
+      "proximate_nature": 0.5,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.7,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "نمين",
+      "province": "اردبيل",
+      "latitude": 38.25,
+      "longitude": 48.29,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.5,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "نير",
+      "province": "اردبيل",
+      "latitude": 37.159,
+      "longitude": 47.5954,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.5,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "گرمي",
+      "province": "اردبيل",
+      "latitude": 39.116,
+      "longitude": 48.449,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "اصفهان",
+      "province": "اصفهان",
+      "latitude": 32.39,
+      "longitude": 51.4,
+      "proximate_nature": 0.6,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.9,
+      "spa_facilities": 0.8
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "فلاورجان",
+      "province": "اصفهان",
+      "latitude": 32.3332,
+      "longitude": 51.3037,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.7,
+      "cultural_sites": 0.7,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "گلپايگان",
+      "province": "اصفهان",
+      "latitude": 33.27,
+      "longitude": 50.17,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.5,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "دهاقان",
+      "province": "اصفهان",
+      "latitude": 31.56,
+      "longitude": 51.39,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.5,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "نطنز",
+      "province": "اصفهان",
+      "latitude": 33.3049,
+      "longitude": 51.5455,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.7,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "تيران",
+      "province": "اصفهان",
+      "latitude": 32.42,
+      "longitude": 51.9,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.7,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "كاشان",
+      "province": "اصفهان",
+      "latitude": 33.59,
+      "longitude": 51.35,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.5,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "اردستان",
+      "province": "اصفهان",
+      "latitude": 33.2228,
+      "longitude": 52.2157,
+      "proximate_nature": 0.5,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.7,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "سميرم",
+      "province": "اصفهان",
+      "latitude": 31.25,
+      "longitude": 51.34,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.5,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "درچه",
+      "province": "اصفهان",
+      "latitude": 32.3647,
+      "longitude": 51.3311,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.7,
+      "cultural_sites": 0.7,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "کوهپایه",
+      "province": "اصفهان",
+      "latitude": 32.436,
+      "longitude": 52.2618,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.7,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "مباركه",
+      "province": "اصفهان",
+      "latitude": 29.54,
+      "longitude": 54.27,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.5,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "شهرضا",
+      "province": "اصفهان",
+      "latitude": 31.5952,
+      "longitude": 51.5129,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.5,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "خميني شهر",
+      "province": "اصفهان",
+      "latitude": 32.41,
+      "longitude": 51.32,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.7,
+      "cultural_sites": 0.7,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "نجف آباد",
+      "province": "اصفهان",
+      "latitude": 32.38,
+      "longitude": 51.23,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.7,
+      "cultural_sites": 0.7,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "زرين شهر",
+      "province": "اصفهان",
+      "latitude": 32.2346,
+      "longitude": 51.2248,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.7,
+      "cultural_sites": 0.7,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "آران و بيدگل",
+      "province": "اصفهان",
+      "latitude": 34.338,
+      "longitude": 51.2847,
+      "proximate_nature": 0.5,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.5,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "باغ بهادران",
+      "province": "اصفهان",
+      "latitude": 51.19,
+      "longitude": 32.376,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "خوانسار",
+      "province": "اصفهان",
+      "latitude": 33.13,
+      "longitude": 50.19,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.5,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "علويجه",
+      "province": "اصفهان",
+      "latitude": 33.321,
+      "longitude": 51.51,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.7,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "عسگران",
+      "province": "اصفهان",
+      "latitude": 32.52,
+      "longitude": 50.51,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.7,
+      "cultural_sites": 0.5,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "حاجي آباد",
+      "province": "اصفهان",
+      "latitude": 33.3622,
+      "longitude": 59.5957,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "تودشک",
+      "province": "اصفهان",
+      "latitude": 32.4339,
+      "longitude": 52.388,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.7,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "ورزنه",
+      "province": "اصفهان",
+      "latitude": 32.2458,
+      "longitude": 52.3813,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.7,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "ايلام",
+      "province": "ايلام",
+      "latitude": 33.38,
+      "longitude": 46.25,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "مهران",
+      "province": "ايلام",
+      "latitude": 33.7,
+      "longitude": 46.1,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "دهلران",
+      "province": "ايلام",
+      "latitude": 32.41,
+      "longitude": 47.16,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "آبدانان",
+      "province": "ايلام",
+      "latitude": 32.593,
+      "longitude": 47.2512,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "دره شهر",
+      "province": "ايلام",
+      "latitude": 33.823,
+      "longitude": 47.2233,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "ايوان",
+      "province": "ايلام",
+      "latitude": 33.502,
+      "longitude": 46.1833,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "سرابله",
+      "province": "ايلام",
+      "latitude": 33.4611,
+      "longitude": 46.3332,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "بوشهر",
+      "province": "بوشهر",
+      "latitude": 28.59,
+      "longitude": 50.5,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "دير",
+      "province": "بوشهر",
+      "latitude": 27.51,
+      "longitude": 51.59,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "كنگان",
+      "province": "بوشهر",
+      "latitude": 27.5,
+      "longitude": 52.4,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "گناوه",
+      "province": "بوشهر",
+      "latitude": 29.34,
+      "longitude": 50.31,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "خورموج",
+      "province": "بوشهر",
+      "latitude": 51.38,
+      "longitude": 28.655,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "اهرم",
+      "province": "بوشهر",
+      "latitude": 28.53,
+      "longitude": 51.16,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.5,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "برازجان",
+      "province": "بوشهر",
+      "latitude": 29.16,
+      "longitude": 51.12,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.5,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "جم",
+      "province": "بوشهر",
+      "latitude": 27.49,
+      "longitude": 52.2,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "کاکی",
+      "province": "بوشهر",
+      "latitude": 28.2,
+      "longitude": 51.31,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.5,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "عسلویه",
+      "province": "بوشهر",
+      "latitude": 27.2835,
+      "longitude": 52.365,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "تهران",
+      "province": "تهران",
+      "latitude": 35.41,
+      "longitude": 51.24,
+      "proximate_nature": 0.7,
+      "thrill_activities": 0.7,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.8
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "ورامين",
+      "province": "تهران",
+      "latitude": 35.2,
+      "longitude": 51.38,
+      "proximate_nature": 0.5,
+      "thrill_activities": 0.7,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "فيروزكوه",
+      "province": "تهران",
+      "latitude": 35.45,
+      "longitude": 52.46,
+      "proximate_nature": 0.7,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "ري",
+      "province": "تهران",
+      "latitude": 35.358,
+      "longitude": 51.269,
+      "proximate_nature": 0.5,
+      "thrill_activities": 0.7,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "دماوند",
+      "province": "تهران",
+      "latitude": 35.43,
+      "longitude": 52.4,
+      "proximate_nature": 0.7,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "اسلامشهر",
+      "province": "تهران",
+      "latitude": 51.232,
+      "longitude": 35.552,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "رودهن",
+      "province": "تهران",
+      "latitude": 35.4412,
+      "longitude": 51.5441,
+      "proximate_nature": 0.7,
+      "thrill_activities": 0.7,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "لواسان",
+      "province": "تهران",
+      "latitude": 51.783,
+      "longitude": 35.825,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "بومهن",
+      "province": "تهران",
+      "latitude": 35.4347,
+      "longitude": 51.5143,
+      "proximate_nature": 0.7,
+      "thrill_activities": 0.7,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "تجريش",
+      "province": "تهران",
+      "latitude": 35.4816,
+      "longitude": 51.2532,
+      "proximate_nature": 0.7,
+      "thrill_activities": 0.7,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "فشم",
+      "province": "تهران",
+      "latitude": 51.526,
+      "longitude": 35.931,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "كهريزك",
+      "province": "تهران",
+      "latitude": 35.3103,
+      "longitude": 51.2135,
+      "proximate_nature": 0.5,
+      "thrill_activities": 0.7,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "پاكدشت",
+      "province": "تهران",
+      "latitude": 35.2854,
+      "longitude": 51.4049,
+      "proximate_nature": 0.7,
+      "thrill_activities": 0.7,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "چهاردانگه",
+      "province": "تهران",
+      "latitude": 51.309,
+      "longitude": 35.604,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "شريف آباد",
+      "province": "تهران",
+      "latitude": 35.2539,
+      "longitude": 51.4707,
+      "proximate_nature": 0.7,
+      "thrill_activities": 0.7,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "قرچك",
+      "province": "تهران",
+      "latitude": 35.261,
+      "longitude": 51.342,
+      "proximate_nature": 0.5,
+      "thrill_activities": 0.7,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "باقرشهر",
+      "province": "تهران",
+      "latitude": 35.3157,
+      "longitude": 51.2409,
+      "proximate_nature": 0.5,
+      "thrill_activities": 0.7,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "شهريار",
+      "province": "تهران",
+      "latitude": 35.3927,
+      "longitude": 51.335,
+      "proximate_nature": 0.7,
+      "thrill_activities": 0.7,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "رباط كريم",
+      "province": "تهران",
+      "latitude": 35.2843,
+      "longitude": 51.449,
+      "proximate_nature": 0.7,
+      "thrill_activities": 0.7,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "قدس",
+      "province": "تهران",
+      "latitude": 35.4317,
+      "longitude": 51.632,
+      "proximate_nature": 0.7,
+      "thrill_activities": 0.7,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "ملارد",
+      "province": "تهران",
+      "latitude": 35.3927,
+      "longitude": 50.5835,
+      "proximate_nature": 0.5,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "شهركرد",
+      "province": "چهارمحال بختیاری",
+      "latitude": 32.19,
+      "longitude": 50.51,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.7,
+      "cultural_sites": 0.5,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "فارسان",
+      "province": "چهارمحال بختیاری",
+      "latitude": 32.1527,
+      "longitude": 50.3341,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.7,
+      "cultural_sites": 0.5,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "بروجن",
+      "province": "چهارمحال بختیاری",
+      "latitude": 31.58,
+      "longitude": 51.17,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.5,
+      "cultural_sites": 0.5,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "چلگرد",
+      "province": "چهارمحال بختیاری",
+      "latitude": 50.138,
+      "longitude": 32.462,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.5,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "اردل",
+      "province": "چهارمحال بختیاری",
+      "latitude": 31.5958,
+      "longitude": 50.3935,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.7,
+      "cultural_sites": 0.5,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "لردگان",
+      "province": "چهارمحال بختیاری",
+      "latitude": 31.31,
+      "longitude": 50.5,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.5,
+      "cultural_sites": 0.5,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "قائن",
+      "province": "خراسان جنوبی",
+      "latitude": 33.43,
+      "longitude": 59.6,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "فردوس",
+      "province": "خراسان جنوبی",
+      "latitude": 34.0,
+      "longitude": 58.9,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "بيرجند",
+      "province": "خراسان جنوبی",
+      "latitude": 32.5216,
+      "longitude": 59.1315,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "نهبندان",
+      "province": "خراسان جنوبی",
+      "latitude": 31.32,
+      "longitude": 60.2,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "سربيشه",
+      "province": "خراسان جنوبی",
+      "latitude": 32.3432,
+      "longitude": 59.4755,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "طبس",
+      "province": "خراسان جنوبی",
+      "latitude": 33.6033,
+      "longitude": 56.9324,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "مشهد",
+      "province": "خراسان رضوی",
+      "latitude": 36.17,
+      "longitude": 59.35,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.6,
+      "cultural_sites": 0.9,
+      "spa_facilities": 0.8
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "نيشابور",
+      "province": "خراسان رضوی",
+      "latitude": 36.13,
+      "longitude": 58.49,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "سبزوار",
+      "province": "خراسان رضوی",
+      "latitude": 36.13,
+      "longitude": 57.4,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "كاشمر",
+      "province": "خراسان رضوی",
+      "latitude": 35.144,
+      "longitude": 58.2738,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "گناباد",
+      "province": "خراسان رضوی",
+      "latitude": 34.2141,
+      "longitude": 58.4157,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "تربت حيدريه",
+      "province": "خراسان رضوی",
+      "latitude": 35.1627,
+      "longitude": 59.139,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "خواف",
+      "province": "خراسان رضوی",
+      "latitude": 34.32,
+      "longitude": 60.5,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "تربت جام",
+      "province": "خراسان رضوی",
+      "latitude": 35.16,
+      "longitude": 60.36,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "تايباد",
+      "province": "خراسان رضوی",
+      "latitude": 34.44,
+      "longitude": 60.47,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "قوچان",
+      "province": "خراسان رضوی",
+      "latitude": 37.4,
+      "longitude": 58.32,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "سرخس",
+      "province": "خراسان رضوی",
+      "latitude": 36.32,
+      "longitude": 61.1,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "فريمان",
+      "province": "خراسان رضوی",
+      "latitude": 35.46,
+      "longitude": 59.49,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "چناران",
+      "province": "خراسان رضوی",
+      "latitude": 59.121,
+      "longitude": 36.642,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "درگز",
+      "province": "خراسان رضوی",
+      "latitude": 37.264,
+      "longitude": 59.628,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "طرقبه",
+      "province": "خراسان رضوی",
+      "latitude": 36.1837,
+      "longitude": 59.2225,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "بجنورد",
+      "province": "خراسان شمالی",
+      "latitude": 37.2835,
+      "longitude": 57.1954,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "اسفراين",
+      "province": "خراسان شمالی",
+      "latitude": 37.436,
+      "longitude": 57.3035,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "جاجرم",
+      "province": "خراسان شمالی",
+      "latitude": 36.573,
+      "longitude": 56.2244,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "شيروان",
+      "province": "خراسان شمالی",
+      "latitude": 33.34,
+      "longitude": 46.52,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "آشخانه",
+      "province": "خراسان شمالی",
+      "latitude": 37.3352,
+      "longitude": 56.556,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "اهواز",
+      "province": "خوزستان",
+      "latitude": 31.19,
+      "longitude": 48.41,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "ايرانشهر",
+      "province": "خوزستان",
+      "latitude": 27.15,
+      "longitude": 60.41,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "شوش",
+      "province": "خوزستان",
+      "latitude": 32.12,
+      "longitude": 48.15,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "آبادان",
+      "province": "خوزستان",
+      "latitude": 30.2024,
+      "longitude": 48.1814,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "خرمشهر",
+      "province": "خوزستان",
+      "latitude": 30.2539,
+      "longitude": 48.118,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "مسجد سليمان",
+      "province": "خوزستان",
+      "latitude": 31.59,
+      "longitude": 49.18,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "ايذه",
+      "province": "خوزستان",
+      "latitude": 31.5,
+      "longitude": 49.52,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "شوشتر",
+      "province": "خوزستان",
+      "latitude": 32.3,
+      "longitude": 48.51,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "انديمشك",
+      "province": "خوزستان",
+      "latitude": 32.27,
+      "longitude": 48.2,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "سوسنگرد",
+      "province": "خوزستان",
+      "latitude": 31.4,
+      "longitude": 48.6,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "هويزه",
+      "province": "خوزستان",
+      "latitude": 31.274,
+      "longitude": 48.428,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "دزفول",
+      "province": "خوزستان",
+      "latitude": 32.2255,
+      "longitude": 48.2411,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "شادگان",
+      "province": "خوزستان",
+      "latitude": 30.39,
+      "longitude": 48.4,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "بندر ماهشهر",
+      "province": "خوزستان",
+      "latitude": 30.34,
+      "longitude": 49.1,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "بندر امام خميني",
+      "province": "خوزستان",
+      "latitude": 30.25,
+      "longitude": 49.2,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "بهبهان",
+      "province": "خوزستان",
+      "latitude": 30.36,
+      "longitude": 50.15,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "رامهرمز",
+      "province": "خوزستان",
+      "latitude": 31.17,
+      "longitude": 49.36,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "باغ ملك",
+      "province": "خوزستان",
+      "latitude": 31.31,
+      "longitude": 49.53,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "هنديجان",
+      "province": "خوزستان",
+      "latitude": 30.14,
+      "longitude": 49.43,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "لالي",
+      "province": "خوزستان",
+      "latitude": 32.1947,
+      "longitude": 49.538,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "رامشیر",
+      "province": "خوزستان",
+      "latitude": 30.5335,
+      "longitude": 49.2425,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "حمیدیه",
+      "province": "خوزستان",
+      "latitude": 31.29,
+      "longitude": 48.26,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "ملاثانی",
+      "province": "خوزستان",
+      "latitude": 31.356,
+      "longitude": 48.531,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "شادگان",
+      "province": "خوزستان",
+      "latitude": 30.39,
+      "longitude": 48.4,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "زنجان",
+      "province": "زنجان",
+      "latitude": 36.4,
+      "longitude": 48.29,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "ابهر",
+      "province": "زنجان",
+      "latitude": 36.8,
+      "longitude": 49.13,
+      "proximate_nature": 0.5,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "خدابنده",
+      "province": "زنجان",
+      "latitude": 36.0,
+      "longitude": 48.3,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "ماهنشان",
+      "province": "زنجان",
+      "latitude": 36.444,
+      "longitude": 47.4022,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "خرمدره",
+      "province": "زنجان",
+      "latitude": 36.124,
+      "longitude": 49.1147,
+      "proximate_nature": 0.5,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "آب بر",
+      "province": "زنجان",
+      "latitude": 36.55,
+      "longitude": 48.58,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "قيدار",
+      "province": "زنجان",
+      "latitude": 36.717,
+      "longitude": 48.3528,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "سمنان",
+      "province": "سمنان",
+      "latitude": 35.34,
+      "longitude": 53.23,
+      "proximate_nature": 0.5,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "شاهرود",
+      "province": "سمنان",
+      "latitude": 36.25,
+      "longitude": 55.0,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "گرمسار",
+      "province": "سمنان",
+      "latitude": 35.15,
+      "longitude": 52.2,
+      "proximate_nature": 0.7,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "ايوانكي",
+      "province": "سمنان",
+      "latitude": 35.21,
+      "longitude": 52.4,
+      "proximate_nature": 0.7,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "دامغان",
+      "province": "سمنان",
+      "latitude": 36.9,
+      "longitude": 54.22,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "بسطام",
+      "province": "سمنان",
+      "latitude": 36.293,
+      "longitude": 54.5956,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "زاهدان",
+      "province": "سيستان و بلوچستان",
+      "latitude": 29.32,
+      "longitude": 60.54,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "چابهار",
+      "province": "سيستان و بلوچستان",
+      "latitude": 60.634,
+      "longitude": 25.296,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "خاش",
+      "province": "سيستان و بلوچستان",
+      "latitude": 28.13,
+      "longitude": 61.13,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "سراوان",
+      "province": "سيستان و بلوچستان",
+      "latitude": 27.2214,
+      "longitude": 62.203,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "زابل",
+      "province": "سيستان و بلوچستان",
+      "latitude": 31.0,
+      "longitude": 61.32,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "سرباز",
+      "province": "سيستان و بلوچستان",
+      "latitude": 26.4,
+      "longitude": 61.2,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "ايرانشهر",
+      "province": "سيستان و بلوچستان",
+      "latitude": 27.15,
+      "longitude": 60.41,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "ميرجاوه",
+      "province": "سيستان و بلوچستان",
+      "latitude": 29.1,
+      "longitude": 61.3,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "شيراز",
+      "province": "فارس",
+      "latitude": 29.36,
+      "longitude": 52.31,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.7,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "اقليد",
+      "province": "فارس",
+      "latitude": 30.53,
+      "longitude": 52.41,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.5,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "داراب",
+      "province": "فارس",
+      "latitude": 28.45,
+      "longitude": 54.33,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "فسا",
+      "province": "فارس",
+      "latitude": 28.55,
+      "longitude": 53.39,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.5,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "مرودشت",
+      "province": "فارس",
+      "latitude": 52.802,
+      "longitude": 29.874,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "آباده",
+      "province": "فارس",
+      "latitude": 31.6,
+      "longitude": 52.4,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.5,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "كازرون",
+      "province": "فارس",
+      "latitude": 29.35,
+      "longitude": 51.4,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.5,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "سپيدان",
+      "province": "فارس",
+      "latitude": 30.1432,
+      "longitude": 51.5938,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.5,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "لار",
+      "province": "فارس",
+      "latitude": 27.42,
+      "longitude": 54.19,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "فيروز آباد",
+      "province": "فارس",
+      "latitude": 26.17,
+      "longitude": 61.25,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "جهرم",
+      "province": "فارس",
+      "latitude": 28.29,
+      "longitude": 53.32,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.5,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "استهبان",
+      "province": "فارس",
+      "latitude": 29.8,
+      "longitude": 54.2,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.5,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "لامرد",
+      "province": "فارس",
+      "latitude": 27.3,
+      "longitude": 53.2,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "مهر",
+      "province": "فارس",
+      "latitude": 27.33,
+      "longitude": 52.53,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "حاجي آباد",
+      "province": "فارس",
+      "latitude": 33.3622,
+      "longitude": 59.5957,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "اردكان",
+      "province": "فارس",
+      "latitude": 32.2,
+      "longitude": 53.59,
+      "proximate_nature": 0.5,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.5,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "صفاشهر",
+      "province": "فارس",
+      "latitude": 30.3446,
+      "longitude": 53.84,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.5,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "ارسنجان",
+      "province": "فارس",
+      "latitude": 29.55,
+      "longitude": 53.1743,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.7,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "سوريان",
+      "province": "فارس",
+      "latitude": 30.2749,
+      "longitude": 53.2648,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.5,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "فراشبند",
+      "province": "فارس",
+      "latitude": 28.53,
+      "longitude": 52.7,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.5,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "سروستان",
+      "province": "فارس",
+      "latitude": 29.16,
+      "longitude": 53.13,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.7,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "زرقان",
+      "province": "فارس",
+      "latitude": 29.4628,
+      "longitude": 52.4329,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.7,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "کوار",
+      "province": "فارس",
+      "latitude": 29.1217,
+      "longitude": 52.4124,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.7,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "بوانات",
+      "province": "فارس",
+      "latitude": 30.2915,
+      "longitude": 53.3534,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.5,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "خرامه",
+      "province": "فارس",
+      "latitude": 53.321,
+      "longitude": 29.501,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "خنج",
+      "province": "فارس",
+      "latitude": 27.53,
+      "longitude": 53.26,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "قزوين",
+      "province": "قزوين",
+      "latitude": 36.167,
+      "longitude": 50.01,
+      "proximate_nature": 0.5,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "تاكستان",
+      "province": "قزوين",
+      "latitude": 36.2,
+      "longitude": 49.4,
+      "proximate_nature": 0.5,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "آبيك",
+      "province": "قزوين",
+      "latitude": 36.3,
+      "longitude": 50.31,
+      "proximate_nature": 0.7,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "بوئين زهرا",
+      "province": "قزوين",
+      "latitude": 35.466,
+      "longitude": 50.331,
+      "proximate_nature": 0.5,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "قم",
+      "province": "قم",
+      "latitude": 34.38,
+      "longitude": 50.53,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "قنوات",
+      "province": "قم",
+      "latitude": 34.613,
+      "longitude": 51.025,
+      "proximate_nature": 0.5,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "جعفریه",
+      "province": "قم",
+      "latitude": 34.774,
+      "longitude": 50.516,
+      "proximate_nature": 0.5,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "کهک",
+      "province": "قم",
+      "latitude": 34.392,
+      "longitude": 50.863,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "دستجرد",
+      "province": "قم",
+      "latitude": 34.549,
+      "longitude": 50.247,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "سلفچگان",
+      "province": "قم",
+      "latitude": 34.477,
+      "longitude": 50.458,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "کرج",
+      "province": "البرز",
+      "latitude": 35.84,
+      "longitude": 50.9391,
+      "proximate_nature": 0.5,
+      "thrill_activities": 0.7,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "طالقان",
+      "province": "البرز",
+      "latitude": 36.1,
+      "longitude": 50.445,
+      "proximate_nature": 0.7,
+      "thrill_activities": 0.7,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "نظرآباد",
+      "province": "البرز",
+      "latitude": 50.608,
+      "longitude": 35.956,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "اشتهارد",
+      "province": "البرز",
+      "latitude": 35.43,
+      "longitude": 50.22,
+      "proximate_nature": 0.5,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "هشتگرد",
+      "province": "البرز",
+      "latitude": 35.5742,
+      "longitude": 50.4048,
+      "proximate_nature": 0.5,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "كرج",
+      "province": "البرز",
+      "latitude": 35.49,
+      "longitude": 50.58,
+      "proximate_nature": 0.5,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "ماهدشت",
+      "province": "البرز",
+      "latitude": 50.813,
+      "longitude": 35.727,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "سنندج",
+      "province": "كردستان",
+      "latitude": 35.18,
+      "longitude": 47.1,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "بانه",
+      "province": "كردستان",
+      "latitude": 35.59,
+      "longitude": 45.54,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "بيجار",
+      "province": "كردستان",
+      "latitude": 35.52,
+      "longitude": 47.39,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "سقز",
+      "province": "كردستان",
+      "latitude": 36.14,
+      "longitude": 46.15,
+      "proximate_nature": 0.5,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "قروه",
+      "province": "كردستان",
+      "latitude": 35.9,
+      "longitude": 47.48,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "مريوان",
+      "province": "كردستان",
+      "latitude": 35.31,
+      "longitude": 46.1,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "صلوات آباد",
+      "province": "كردستان",
+      "latitude": 35.16,
+      "longitude": 47.7,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "حسن آباد",
+      "province": "كردستان",
+      "latitude": 35.222,
+      "longitude": 51.1412,
+      "proximate_nature": 0.5,
+      "thrill_activities": 0.7,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "کرمان",
+      "province": "کرمان",
+      "latitude": 30.16,
+      "longitude": 57.4,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.9,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "راور",
+      "province": "کرمان",
+      "latitude": 31.15,
+      "longitude": 56.51,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "انار",
+      "province": "کرمان",
+      "latitude": 30.55,
+      "longitude": 55.15,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "کوهبنان",
+      "province": "کرمان",
+      "latitude": 31.25,
+      "longitude": 56.17,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "رفسنجان",
+      "province": "کرمان",
+      "latitude": 30.25,
+      "longitude": 56.0,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "بافت",
+      "province": "کرمان",
+      "latitude": 29.12,
+      "longitude": 56.36,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "سيرجان",
+      "province": "کرمان",
+      "latitude": 29.27,
+      "longitude": 55.4,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "كهنوج",
+      "province": "کرمان",
+      "latitude": 27.5653,
+      "longitude": 57.4155,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "زرند",
+      "province": "کرمان",
+      "latitude": 30.5,
+      "longitude": 56.35,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "بم",
+      "province": "کرمان",
+      "latitude": 29.7,
+      "longitude": 58.2,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "جيرفت",
+      "province": "کرمان",
+      "latitude": 28.4,
+      "longitude": 57.44,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "بردسير",
+      "province": "کرمان",
+      "latitude": 29.5541,
+      "longitude": 56.3427,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "كرمانشاه",
+      "province": "كرمانشاه",
+      "latitude": 34.18,
+      "longitude": 47.3,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "اسلام آباد غرب",
+      "province": "كرمانشاه",
+      "latitude": 46.528,
+      "longitude": 34.111,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "كنگاور",
+      "province": "كرمانشاه",
+      "latitude": 34.29,
+      "longitude": 47.55,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "سنقر",
+      "province": "كرمانشاه",
+      "latitude": 34.47,
+      "longitude": 47.36,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "قصر شيرين",
+      "province": "كرمانشاه",
+      "latitude": 34.31,
+      "longitude": 45.35,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "هرسين",
+      "province": "كرمانشاه",
+      "latitude": 34.16,
+      "longitude": 47.35,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "صحنه",
+      "province": "كرمانشاه",
+      "latitude": 34.29,
+      "longitude": 47.41,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "پاوه",
+      "province": "كرمانشاه",
+      "latitude": 35.3,
+      "longitude": 46.22,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "جوانرود",
+      "province": "كرمانشاه",
+      "latitude": 34.4823,
+      "longitude": 46.3023,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "ياسوج",
+      "province": "کهگیلویه و بويراحمد",
+      "latitude": 30.39,
+      "longitude": 51.35,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.5,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "گچساران",
+      "province": "کهگیلویه و بويراحمد",
+      "latitude": 30.2128,
+      "longitude": 50.4757,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "دوگنبدان",
+      "province": "کهگیلویه و بويراحمد",
+      "latitude": 50.792,
+      "longitude": 30.357,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "سي سخت",
+      "province": "کهگیلویه و بويراحمد",
+      "latitude": 30.52,
+      "longitude": 51.27,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.5,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "دهدشت",
+      "province": "کهگیلویه و بويراحمد",
+      "latitude": 30.4741,
+      "longitude": 50.3352,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "گرگان",
+      "province": "گلستان",
+      "latitude": 36.5,
+      "longitude": 54.25,
+      "proximate_nature": 0.85,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "آق قلا",
+      "province": "گلستان",
+      "latitude": 37.1,
+      "longitude": 54.2757,
+      "proximate_nature": 0.85,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "گنبد كاووس",
+      "province": "گلستان",
+      "latitude": 37.15,
+      "longitude": 55.1,
+      "proximate_nature": 0.85,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "علي آباد كتول",
+      "province": "گلستان",
+      "latitude": 36.5429,
+      "longitude": 54.5148,
+      "proximate_nature": 0.85,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "كردكوی",
+      "province": "گلستان",
+      "latitude": 36.4748,
+      "longitude": 54.655,
+      "proximate_nature": 0.85,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "كلاله",
+      "province": "گلستان",
+      "latitude": 37.2251,
+      "longitude": 55.293,
+      "proximate_nature": 0.85,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "آزاد شهر",
+      "province": "گلستان",
+      "latitude": 37.5,
+      "longitude": 55.1,
+      "proximate_nature": 0.85,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "راميان",
+      "province": "گلستان",
+      "latitude": 37.024,
+      "longitude": 55.835,
+      "proximate_nature": 0.85,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "رشت",
+      "province": "گيلان",
+      "latitude": 37.16,
+      "longitude": 49.35,
+      "proximate_nature": 0.5,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "منجيل",
+      "province": "گيلان",
+      "latitude": 36.44,
+      "longitude": 49.25,
+      "proximate_nature": 0.5,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "لنگرود",
+      "province": "گيلان",
+      "latitude": 37.12,
+      "longitude": 50.9,
+      "proximate_nature": 0.9,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "تالش",
+      "province": "گيلان",
+      "latitude": 37.484,
+      "longitude": 48.5428,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "آستارا",
+      "province": "گيلان",
+      "latitude": 38.2518,
+      "longitude": 48.5221,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.5,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "ماسوله",
+      "province": "گيلان",
+      "latitude": 48.99,
+      "longitude": 37.156,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "رودبار",
+      "province": "گيلان",
+      "latitude": 36.492,
+      "longitude": 49.2533,
+      "proximate_nature": 0.5,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "فومن",
+      "province": "گيلان",
+      "latitude": 37.15,
+      "longitude": 49.19,
+      "proximate_nature": 0.5,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "صومعه سرا",
+      "province": "گيلان",
+      "latitude": 37.18,
+      "longitude": 49.18,
+      "proximate_nature": 0.5,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "هشتپر",
+      "province": "گيلان",
+      "latitude": 48.907,
+      "longitude": 37.797,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "ماسال",
+      "province": "گيلان",
+      "latitude": 37.2249,
+      "longitude": 49.633,
+      "proximate_nature": 0.5,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "شفت",
+      "province": "گيلان",
+      "latitude": 37.9,
+      "longitude": 49.24,
+      "proximate_nature": 0.5,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "املش",
+      "province": "گيلان",
+      "latitude": 37.52,
+      "longitude": 50.1114,
+      "proximate_nature": 0.5,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "لاهیجان",
+      "province": "گيلان",
+      "latitude": 37.13,
+      "longitude": 50.0,
+      "proximate_nature": 0.7,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "خرم آباد",
+      "province": "لرستان",
+      "latitude": 33.29,
+      "longitude": 48.21,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.5,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "ماهشهر",
+      "province": "لرستان",
+      "latitude": 49.18,
+      "longitude": 30.546,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.5,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "دزفول",
+      "province": "لرستان",
+      "latitude": 32.2255,
+      "longitude": 48.2411,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.5,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "بروجرد",
+      "province": "لرستان",
+      "latitude": 33.55,
+      "longitude": 48.48,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.5,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "دورود",
+      "province": "لرستان",
+      "latitude": 33.294,
+      "longitude": 49.425,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.5,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "اليگودرز",
+      "province": "لرستان",
+      "latitude": 33.23,
+      "longitude": 49.42,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.5,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "ازنا",
+      "province": "لرستان",
+      "latitude": 33.2713,
+      "longitude": 49.279,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.5,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "نور آباد",
+      "province": "لرستان",
+      "latitude": 47.972,
+      "longitude": 34.074,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.5,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "كوهدشت",
+      "province": "لرستان",
+      "latitude": 33.32,
+      "longitude": 47.36,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.5,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "الشتر",
+      "province": "لرستان",
+      "latitude": 33.522,
+      "longitude": 48.1546,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.5,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "ساري",
+      "province": "مازندران",
+      "latitude": 36.33,
+      "longitude": 53.3,
+      "proximate_nature": 0.85,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.6
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "آمل",
+      "province": "مازندران",
+      "latitude": 36.28,
+      "longitude": 52.22,
+      "proximate_nature": 0.9,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.6
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "بابل",
+      "province": "مازندران",
+      "latitude": 36.33,
+      "longitude": 52.41,
+      "proximate_nature": 0.85,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.6
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "بابلسر",
+      "province": "مازندران",
+      "latitude": 36.42,
+      "longitude": 52.39,
+      "proximate_nature": 0.85,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.6
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "بهشهر",
+      "province": "مازندران",
+      "latitude": 36.42,
+      "longitude": 53.33,
+      "proximate_nature": 0.85,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.6
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "تنكابن",
+      "province": "مازندران",
+      "latitude": 36.49,
+      "longitude": 50.53,
+      "proximate_nature": 0.9,
+      "thrill_activities": 0.7,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.6
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "جويبار",
+      "province": "مازندران",
+      "latitude": 36.38,
+      "longitude": 52.55,
+      "proximate_nature": 0.85,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.6
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "چالوس",
+      "province": "مازندران",
+      "latitude": 36.39,
+      "longitude": 51.25,
+      "proximate_nature": 0.85,
+      "thrill_activities": 0.7,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.6
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "رامسر",
+      "province": "مازندران",
+      "latitude": 37.5426,
+      "longitude": 50.3944,
+      "proximate_nature": 0.85,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.6
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "قائم شهر",
+      "province": "مازندران",
+      "latitude": 52.859,
+      "longitude": 36.466,
+      "proximate_nature": 0.85,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.6
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "نكا",
+      "province": "مازندران",
+      "latitude": 36.39,
+      "longitude": 53.18,
+      "proximate_nature": 0.85,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.6
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "نور",
+      "province": "مازندران",
+      "latitude": 36.341,
+      "longitude": 52.049,
+      "proximate_nature": 0.9,
+      "thrill_activities": 0.7,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.6
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "بلده",
+      "province": "مازندران",
+      "latitude": 36.12,
+      "longitude": 51.49,
+      "proximate_nature": 0.85,
+      "thrill_activities": 0.7,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.6
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "نوشهر",
+      "province": "مازندران",
+      "latitude": 36.39,
+      "longitude": 51.3,
+      "proximate_nature": 0.85,
+      "thrill_activities": 0.7,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.6
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "محمود آباد",
+      "province": "مازندران",
+      "latitude": 52.278,
+      "longitude": 36.634,
+      "proximate_nature": 0.85,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.6
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "اراک",
+      "province": "مرکزی",
+      "latitude": 34.5,
+      "longitude": 49.41,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "آشتيان",
+      "province": "مرکزی",
+      "latitude": 34.32,
+      "longitude": 50.0,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "تفرش",
+      "province": "مرکزی",
+      "latitude": 34.4139,
+      "longitude": 50.055,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "خمين",
+      "province": "مرکزی",
+      "latitude": 33.38,
+      "longitude": 50.4,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.5,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "دليجان",
+      "province": "مرکزی",
+      "latitude": 33.59,
+      "longitude": 50.41,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.5,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "ساوه",
+      "province": "مرکزی",
+      "latitude": 35.117,
+      "longitude": 50.2124,
+      "proximate_nature": 0.5,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "محلات",
+      "province": "مرکزی",
+      "latitude": 33.54,
+      "longitude": 50.28,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.5,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "شازند",
+      "province": "مرکزی",
+      "latitude": 33.5616,
+      "longitude": 49.25,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "بندرعباس",
+      "province": "هرمزگان",
+      "latitude": 56.266,
+      "longitude": 27.18,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "قشم",
+      "province": "هرمزگان",
+      "latitude": 26.58,
+      "longitude": 56.17,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "كيش",
+      "province": "هرمزگان",
+      "latitude": 26.32,
+      "longitude": 53.58,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "بندر لنگه",
+      "province": "هرمزگان",
+      "latitude": 26.34,
+      "longitude": 54.52,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "بستك",
+      "province": "هرمزگان",
+      "latitude": 27.16,
+      "longitude": 54.26,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "حاجي آباد",
+      "province": "هرمزگان",
+      "latitude": 33.3622,
+      "longitude": 59.5957,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "دهبارز",
+      "province": "هرمزگان",
+      "latitude": 27.254,
+      "longitude": 57.126,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "ميناب",
+      "province": "هرمزگان",
+      "latitude": 27.7,
+      "longitude": 57.6,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "بندر جاسك",
+      "province": "هرمزگان",
+      "latitude": 25.3839,
+      "longitude": 57.4624,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "بندر خمیر",
+      "province": "هرمزگان",
+      "latitude": 26.57,
+      "longitude": 55.35,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "قشم",
+      "province": "هرمزگان",
+      "latitude": 26.58,
+      "longitude": 56.17,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "همدان",
+      "province": "همدان",
+      "latitude": 34.47,
+      "longitude": 48.3,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "ملاير",
+      "province": "همدان",
+      "latitude": 34.18,
+      "longitude": 48.49,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "نهاوند",
+      "province": "همدان",
+      "latitude": 34.13,
+      "longitude": 48.21,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "رزن",
+      "province": "همدان",
+      "latitude": 49.033,
+      "longitude": 35.39,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "اسدآباد",
+      "province": "همدان",
+      "latitude": 48.123,
+      "longitude": 34.783,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "بهار",
+      "province": "همدان",
+      "latitude": 34.5425,
+      "longitude": 48.2622,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "يزد",
+      "province": "يزد",
+      "latitude": 31.53,
+      "longitude": 54.21,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "تفت",
+      "province": "يزد",
+      "latitude": 31.45,
+      "longitude": 54.12,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "اردكان",
+      "province": "يزد",
+      "latitude": 32.2,
+      "longitude": 53.59,
+      "proximate_nature": 0.5,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.5,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "ابركوه",
+      "province": "يزد",
+      "latitude": 31.741,
+      "longitude": 53.1652,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.5,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "ميبد",
+      "province": "يزد",
+      "latitude": 32.14,
+      "longitude": 54.1,
+      "proximate_nature": 0.5,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "بافق",
+      "province": "يزد",
+      "latitude": 31.36,
+      "longitude": 55.24,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "مهريز",
+      "province": "يزد",
+      "latitude": 31.359,
+      "longitude": 54.252,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "اشكذر",
+      "province": "يزد",
+      "latitude": 31.5938,
+      "longitude": 54.122,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "هرات",
+      "province": "يزد",
+      "latitude": 30.4,
+      "longitude": 54.22,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.5,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "خضرآباد",
+      "province": "يزد",
+      "latitude": 53.953,
+      "longitude": 31.866,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  },
+  {
+    "model": "travel.destination",
+    "fields": {
+      "name": "زارچ",
+      "province": "يزد",
+      "latitude": 54.26,
+      "longitude": 31.979,
+      "proximate_nature": 0.4,
+      "thrill_activities": 0.2,
+      "cultural_sites": 0.3,
+      "spa_facilities": 0.2
+    }
+  }
+]

@@ -1,4 +1,4 @@
-from .models import Destination, Activity, TravelStyle, StyleParameter, UserTravelStyle
+from .models import Destination, TravelStyle, StyleParameter, UserTravelStyle
 
 
 def recommend_destinations(user):

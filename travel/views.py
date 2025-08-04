@@ -1,11 +1,9 @@
 from rest_framework import generics, permissions, status, filters
 from rest_framework.response import Response
 from django_filters.rest_framework import DjangoFilterBackend
-from .models import TravelStyle, UserTravelStyle, Destination, Activity
-from .serializers import TravelStyleSerializer, UserTravelStyleSerializer, DestinationSerializer, ActivitySerializer
-from .recommendation import recommend_destinations
-from .ai_service import AIRecommender
-from travel.utils.swagger_docs import travel_style_list_schema, user_travel_style_schema, recommendation_schema, destination_list_schema, activity_list_schema, aii_service_schema
+from .models import TravelStyle, UserTravelStyle, Destination
+from .serializers import TravelStyleSerializer, UserTravelStyleSerializer, DestinationSerializer
+from travel.utils.swagger_docs import travel_style_list_schema, user_travel_style_schema, destination_list_schema
 from .utils import pagination
 
 
