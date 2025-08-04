@@ -3,32 +3,39 @@ from django.contrib.auth import get_user_model
 
 User = get_user_model()
 
-class Destination(models.Model):
-    name = models.CharField(max_length=255)
-    proximate_nature = models.FloatField()
-    thrill_activities = models.FloatField()
-    average_cost = models.FloatField()
-    cultural_sites = models.FloatField()
-    spa_facilities = models.FloatField()
 
-    def __str__(self):
-        self.name
-
-class Activity(models.Model):
-    destination = models.ForeignKey(Destination, related_name="activities", on_delete=models.CASCADE)
-    name = models.CharField(max_length=255)
-    category = models.CharField(max_length=100)
-    duration_hours = models.FloatField()
-    
-    def __str__(self):
-        return f"{self.name} @ {self.destination.name}"
-    
 class TravelStyle(models.Model):
     name = models.CharField(max_length=100)
     description = models.TextField(blank=True)
 
     def __str__(self):
         return self.name
+
+class Destination(models.Model):
+    BUDGET_CHOICES = [
+        ('low', 'کم'),
+        ('medium', 'متوسط'),
+        ('high', 'زیاد')
+    ]
+    name = models.CharField(max_length=255)
+    description = models.TextField()
+    province = models.CharField(max_length=100, blank=True)
+    
+    proximate_nature = models.FloatField()
+    thrill_activities = models.FloatField()
+    average_cost = models.FloatField()
+    cultural_sites = models.FloatField()
+    spa_facilities = models.FloatField()
+    
+    budget_level = models.CharField(max_length=100, null=True, blank=True, choices=BUDGET_CHOICES)
+    TravelStyle = models.ManyToManyField(TravelStyle, related_name='destinations')
+    average_stay_days = models.IntegerField(default=1)
+    weather_type = models.CharField(max_length=50, choices=[('hot', 'Hot'), ('cold', 'Cold'), ('moderate', "Moderate"), ('dry', 'Dry'), ('humid', 'Humid')], null=True, blank=True)
+    
+    def __str__(self):
+        self.name
+
+
 
 class StyleParameter(models.Model):
     style = models.ForeignKey(TravelStyle, related_name='parameters', on_delete=models.CASCADE)

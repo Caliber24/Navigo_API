@@ -23,18 +23,19 @@ class UserTravelStyleSerializer(serializers.ModelSerializer):
 
 
 class DestinationSerializer(serializers.ModelSerializer):
-    score = serializers.FloatField(
-        read_only=True, help_text="Calculated score based on user's travel style preferences")
-    reason = serializers.CharField(
-        read_only=True, help_text="Reason for the score, e.g., 'High nature proximity'")
 
     class Meta:
         model = Destination
-        fields = ['id', 'name', 'proximate_nature', 'thrill_activities',
-                  'average_cost', 'cultural_sites', 'spa_facilities', 'score', 'reason']
+        fields = '__all__'
 
 
-class ActivitySerializer(serializers.ModelSerializer):
-    class Meta:
-        model = Activity
-        fields = "__all__"
+# class RecommendationRequestSerializer(serializers.Serializer):
+#     origin = serializers.CharField()
+#     travel_style = serializers.CharField(required=False)
+#     travel_days = serializers.IntegerField(required=False)
+#     transport_mode = serializers.CharField(
+#         required=False, choices=['car', 'bus', 'train', 'flight'])
+
+#     weather_type = serializers.ChoiceField(choices=['hot', 'cold', 'moderate', 'dry', 'humid'], required=False)
+#     budget_level = serializers.CharField(required=False)
+#     tags = serializers.ListField(child=serializers.CharField(), required=False)
