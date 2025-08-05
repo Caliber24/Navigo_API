@@ -1,4 +1,4 @@
-from rest_framework import generics, permissions, status, filters
+from rest_framework import generics, permissions, filters
 from rest_framework.response import Response
 from django_filters.rest_framework import DjangoFilterBackend
 from .models import TravelStyle, UserTravelStyle, Destination
@@ -35,3 +35,14 @@ class UserTravelStyleView(generics.RetrieveUpdateAPIView):
         return self.update(request, *args, **kwargs)
 
 
+@destination_list_schema
+class DestinationListView(generics.ListAPIView):
+    queryset = Destination.objects.prefetch_related('travel_styles').all()
+    serializer_class = DestinationSerializer
+    filter_backends = [DjangoFilterBackend, filters.SearchFilter, filters.OrderingFilter]
+    filterset_fields = ['travel_styles', 'province']
+    search_fields = ['name', 'province']
+    ordering_fields = ['name','proximate_nature', 'thrill_activities', 'cultural_sites', 'spa_facilities' ]
+    ordering = ['name']
+    # permission_classes = [permissions.IsAuthenticated]
+    # pagination_class = pagination.StandardResultsSetPagination
