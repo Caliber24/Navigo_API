@@ -46,6 +46,10 @@ INSTALLED_APPS = [
     'django_otp.plugins.otp_totp',
     'drf_spectacular',
     'drf_spectacular_sidecar',
+    'allauth',
+    'allauth.account',
+    'allauth.socialaccount',
+    'allauth.socialaccount.providers.google',
 
     'users.apps.UsersConfig',
     'travel.apps.TravelConfig',
@@ -205,7 +209,16 @@ EMAIL_USE_TLS = True
 EMAIL_HOST_USER = 'm.hasan.tavakoli1381@gmail.com'
 EMAIL_HOST_PASSWORD = 'wlgbngzyyzmzjcbi'
 
+# Redirect URLs
+LOGIN_REDIRECT_URL = '/'
+ACCOUNT_LOGOUT_REDIRECT_URL = '/'
 
+SITE_ID = 1  # important for google login
+
+AUTHENTICATION_BACKENDS = [
+    'django.contrib.auth.backends.ModelBackend',  # احراز هویت دیفالت
+    'allauth.account.auth_backends.AuthenticationBackend',  # احراز هویت allauth
+]
 
 LOGGING = {
     'version': 1,
