@@ -40,6 +40,10 @@ class User(AbstractUser):
     is_active = models.BooleanField(default=False)
     is_admin = models.BooleanField(default=False)
     notifications_enabled = models.BooleanField(default=False)
+    age = models.IntegerField()
+    job = models.CharField(max_length=255, blank=True, null=True)
+
+
     USERNAME_FIELD = 'email'
     REQUIRED_FIELDS = []
     objects = CustomUserManager()

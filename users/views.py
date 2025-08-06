@@ -14,7 +14,8 @@ from users.serializers import (
     MeSerializer,
     SendResetPasswordCodeSerializer,
     ResetPasswordWithCodeSerializer,
-    UserAvatarSerializer
+    UserAvatarSerializer,
+    OnboardingSerializer
 )
 from users.utils.generate_code import validate_code
 from users.utils.send_activation import send_code_email_activation, send_code_email_reset_password
@@ -51,6 +52,8 @@ class UserViewSet(viewsets.GenericViewSet):
             return UserAvatarSerializer
         elif self.action == 'delete_avatar':
             return UserAvatarSerializer
+        elif self.action == 'onboarding':
+            return OnboardingSerializer
         return serializers.Serializer
 
     @register_schema
@@ -170,3 +173,12 @@ class UserViewSet(viewsets.GenericViewSet):
         user.avatar = None
         user.save()
         return Response({"message": "Avatar deleted successfully."}, status=status.HTTP_200_OK)
+
+    @onboarding_schema
+    @action(detail=False, methods=['post'], permission_classes=[IsAuthenticated])
+    def onboarding(self, request):
+        serializer = OnboardingSerializer(instance=request.user, data=request.data, partial=True)
+        serializer.is_valid(raise_exception=True)
+        serializer.save()
+        return Response({"message": "Onboarding completed successfully."}, status=status.HTTP_200_OK)
+

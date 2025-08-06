@@ -2,7 +2,7 @@ from drf_spectacular.utils import extend_schema, OpenApiResponse
 from users.serializers import (
     RegisterSerializer, ActivateSerializer, ResendActivationSerializer,
     MeSerializer, SendResetPasswordCodeSerializer, ResetPasswordWithCodeSerializer,
-    UserAvatarSerializer
+    UserAvatarSerializer, OnboardingSerializer
 )
 
 register_schema = extend_schema(
@@ -71,4 +71,10 @@ delete_avatar_schema = extend_schema(
         400: OpenApiResponse(description="No avatar to delete.")
     },
     description="Delete current user's avatar."
+)
+
+onboarding_schema = extend_schema(
+    request=OnboardingSerializer,
+    responses={200: OpenApiResponse(description="Onboarding completed successfully.")},
+    description="Collects and saves the user's basic information after registration, including name, age, job."
 )

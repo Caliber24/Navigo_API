@@ -6,6 +6,8 @@ from users.utils.generate_code import validate_code
 from users.utils.avatar_validator import validate_avatar
 from django.contrib.auth import get_user_model
 import logging
+from travel.models import TravelStyle
+
 
 logger = logging.getLogger(__name__)
 
@@ -46,7 +48,7 @@ class ResendActivationSerializer(serializers.Serializer):
 class MeSerializer(serializers.ModelSerializer):
     class Meta:
         model = User
-        fields = ['email', 'first_name', 'last_name', 'avatar', 'notifications_enabled']
+        fields = ['email', 'first_name', 'last_name', 'avatar','job', 'age' ,'notifications_enabled']
         read_only_fields = ['email', 'avatar']
 
 
@@ -103,3 +105,12 @@ class UserAvatarSerializer(serializers.Serializer):
     def validate_avatar(self, value):
         validate_avatar(value)
         return value
+
+
+
+class OnboardingSerializer(serializers.ModelSerializer):
+
+    class Meta:
+        model = User
+        fields = ['first_name', 'last_name', 'age', 'job']
+
